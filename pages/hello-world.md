@@ -5,3 +5,4 @@ tags: [general, awesome, stuff]
 #This is the Hello World page
 ##A number two heading
 **Hello World**, from a *page*!
+<img src="/static/images/farkle.png">
